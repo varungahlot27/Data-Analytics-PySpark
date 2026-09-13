@@ -17,3 +17,7 @@ This project analyzes lung cancer patient health and treatment records using Pyt
 - Python
 - Pandas
 - Data Analysis
+## Project Files
+
+- [Lung Cancer Analysis Notebook](./Lung_cancer_Analysis.ipynb)
+- [Project Report / Dissertation](./Lung_Cancer_Dissertation.pdf)
